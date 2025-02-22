@@ -40,7 +40,3 @@ To run this analysis on your local machine, follow the steps below:
 - Python 3.x
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`
 
-### Installation steps:
-1. Clone this repository:
-   ```bash
-   https://github.com/Ishantm07/Sales-Analysis.git

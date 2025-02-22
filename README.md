@@ -43,4 +43,4 @@ To run this analysis on your local machine, follow the steps below:
 ### Installation steps:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ishant07/diwali-sales-analysis.git
+   git clone https://github.com/Ishantm07/Sales-Analysi.git
